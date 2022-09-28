@@ -1,0 +1,2 @@
+WELCOME
+This project is to be viewed by the web development section of the CS club: Pablo Hernandez, Muhammed (I dont know your last name), Mathew Olivas, DonRichie Ewane, Armando Lerario, and the other guy(dont know his name)
