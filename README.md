@@ -1,5 +1,5 @@
 WELCOME
-This project is to be viewed by the web development section of the CS club: Pablo Hernandez, Muhammed (I dont know your last name), Mathew Olivas, DonRichie Ewane, Armando Lerario, and the other guy(dont know his name)
+This project is to be viewed by the web development section of the CS club: Pablo Hernandez, Mahmut Under, Mathew Olivas, DonRichie Ewane, Armando Lerario, and the other guy(dont know his name)
 
 NOTE FROM PABLO:
 I made the mistake of confusing the ACM website with the CS Club website so if I caused any confusion I apoligize.
