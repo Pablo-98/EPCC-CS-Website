@@ -14,7 +14,7 @@ What the application will need:
 So far, of the 5 components that the website currently has, none will be static. Everything is interactive.
 
 Personal suggestions from Pablo for the backend:
-1. I think firebase would be a good fit for this application as like the current site, can handle user authentication, website hosting, and uses a real-time database to store files and update the front end. It is a complete back end as a service. Firebase also interacts with any programming language.
+1. I think firebase would be a good fit for this application as like the current site, can use google forms. Firebase can handle user authentication, website hosting, and uses a real-time database to store files and update the front end. It is a complete back end as a service. Firebase also interacts with any programming language.
 
 Here is a link to a brief overview of firebase: 
 https://www.youtube.com/watch?v=vAoB4VbhRzM
