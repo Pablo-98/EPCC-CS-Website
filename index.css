@@ -28,7 +28,9 @@ nav menuitem {
     position: absolute;
     pointer-events:none;
  }
- nav > menu { display:flex; }
+ nav > menu { display:flex; 
+
+}
  
  nav > menu > menuitem { pointer-events: all; opacity:1; }
  menu menuitem a { white-space:nowrap; display:block; }
