@@ -35,4 +35,6 @@ function reset() {
 document.addEventListener('mouseover', function() {
    mousein = true
    reset()
-})
+});
+
+console.log('Hi! Thanks for visiting the website:)');

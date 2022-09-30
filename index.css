@@ -29,7 +29,6 @@ nav menuitem {
     pointer-events:none;
  }
  nav > menu { display:flex; 
-
 }
  
  nav > menu > menuitem { pointer-events: all; opacity:1; }
