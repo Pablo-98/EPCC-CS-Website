@@ -19,5 +19,5 @@ This website is going to imitate the current website. The site is a single html 
 6. SITEMAP
 
 
-website for original website:
+link for original website:
 sites.google.com/site/acmcsit/
