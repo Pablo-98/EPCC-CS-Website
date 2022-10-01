@@ -14,40 +14,44 @@ html, body{
 }
 
 /* HTML Nav Styles */
-/* HTML Nav Styles */
-/* HTML Nav Styles */
 
+/* styling all the menu items inside the navbar */
 nav menuitem {
     position:relative;
     display:block;
     opacity:0;
     cursor:pointer;
  }
- 
+ /*  selects the menu tag inside of the menuitem */
  nav menuitem > menu {
     position: absolute;
     pointer-events:none;
  }
+ /* selects the menu tags under the nav tag*/
  nav > menu { display:flex; 
 }
  
+/* selects the all menu items that are children to the  menu and menu items children to the nav */
  nav > menu > menuitem { pointer-events: all; opacity:1; }
+
+ /* selects all the links inside the menuitems*/
  menu menuitem a { white-space:nowrap; display:block; }
-    
+  
+ /* all menu tags that are children to a menuitem that is being hoverd over:*/
  menuitem:hover > menu {
     pointer-events:initial;
  }
+ /* all menu item tags that are children to menu tags that are children to a menuitem being hovered over along with menuitem children to parent menu being hovered over */
  menuitem:hover > menu > menuitem,
  menu:hover > menuitem{
     opacity:1;
  }
+ /* selecting all menu tags inside menuitem tags that are inside of another menuitem which are children of menu tags and children of nav*/ 
  nav > menu > menuitem menuitem menu {
     transform:translateX(100%);
     top:0; right:0;
  }
- /* User Styles Below Not Required */
- /* User Styles Below Not Required */
- /* User Styles Below Not Required */
+ /* User Styles */
  
  nav { 
     margin-top: 40px;
