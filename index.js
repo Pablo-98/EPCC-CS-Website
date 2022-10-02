@@ -1,3 +1,8 @@
+
+//commenting out time out funcitons for now 10/01/ 10:26pm
+/*
+
+
 // declaring count variable that will increment up when the mouse hovers over demo
 var count = 1
 // waits half a second for the demo function
@@ -43,5 +48,5 @@ document.addEventListener('mouseover', function() {
    mousein = true
    reset()
 }); c6
-
+*/
 console.log('Hi! Thanks for visiting the website:)');
