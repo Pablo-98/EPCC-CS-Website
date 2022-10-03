@@ -120,4 +120,10 @@ nav menuitem {
     transform:translateX(0) translateY(0%);
     opacity: 1;
  }
+
+ #logo{
+   width: 300px;
+   height: 300px;
+   text-align: center;
+ }
  
